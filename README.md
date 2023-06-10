@@ -1,4 +1,4 @@
-#52WeeksOfAI Challenge
+# #52WeeksOfAI Challenge
 
 The 52 weeks of AI challenge is challenge where for 52 weeks, a year, we are going to produce 52 AI or AI-assisted ventures, one AI venture a week.
 
