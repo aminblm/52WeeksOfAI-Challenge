@@ -40,5 +40,5 @@ Our calendar is a collection of events run in the Twitter, LinkedIn and the Disc
 
 1. Like, retweet and comment “I’m in! #52WeeksOfAI” this [tweet](https://twitter.com/aminblm/status/1664526401888813057?s=20)
 2. Join the community of 52WeeksOfAI - [TranscendAI](https://twitter.com/52WeeksOfAI) 
-3. Start Engaging with the community and discussing ideas to take them to reality
-
+3. Join the newsletter to never miss a news release: https://aminblm.substack.com/ 
+4. Start Engaging with the community and discussing ideas to take them to reality
