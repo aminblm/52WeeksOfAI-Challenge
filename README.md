@@ -4,7 +4,8 @@ The [52 weeks of AI challenge](https://transcendai.substack.com/p/52-weeks-of-ai
 
 This challenge has been launched by Amin Boulouma in his [Twitter thread](https://twitter.com/aminblm/status/1664526401888813057?s=20).
 
-<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">Gave GPT-4 $1 budget, built successful product sold for 500x. Repeat success.<br><br>Now I have 2 products selling at $500, and on MRR. Challenge accepted.<br><br>52 weeks = 52 products<br><br>RT + Follow + Drop your product in the comments to join the challenge: <a href="https://twitter.com/hashtag/52WeeksOfAI?src=hash&amp;ref_src=twsrc%5Etfw">#52WeeksOfAI</a><br><br>[🧵 thread] <a href="https://t.co/IMkKvQlXfX">https://t.co/IMkKvQlXfX</a></p>&mdash; Amin Boulouma - Join the #52WeeksOfAI Challenge! (@aminblm) <a href="https://twitter.com/aminblm/status/1664526401888813057?ref_src=twsrc%5Etfw">June 2, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en" data-theme="dark"><p lang="en" dir="ltr">Gave GPT-4 $1 budget, built successful product sold for 500x. Repeat success.<br><br>Now I have 2 products selling at $500, and on MRR. Challenge accepted.<br><br>52 weeks = 52 products<br><br>RT + Follow + Drop your product in the comments to join the challenge: <a href="https://twitter.com/hashtag/52WeeksOfAI?src=hash&amp;ref_src=twsrc%5Etfw">#52WeeksOfAI</a><br><br>[🧵 thread] <a href="https://t.co/IMkKvQlXfX">https://t.co/IMkKvQlXfX</a></p>&mdash; Amin Boulouma - Join the #52WeeksOfAI Challenge! (@aminblm) <a href="https://twitter.com/aminblm/status/1664526401888813057?ref_src=twsrc%5Etfw">June 2, 2023</a></blockquote> 
+
 
 The community behind is the @52WeeksOfAI community on Twitter and powered by TranscendAI - The company that is encompassing the 52 AI ventures created by Amin Boulouma, we have a growing discord server of 600 memebers:
 
