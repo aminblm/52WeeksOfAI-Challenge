@@ -1,5 +1,7 @@
 # #52WeeksOfAI Challenge
 
+![_AI Ventures  Community  Workshops  Spaces  Podcasts  Masterclasses  Conferences](https://github.com/aminblm/52WeeksOfAI-Challenge/assets/25132838/d6d9cffe-7c47-4e32-af12-14958b792550)
+
 TL;DR: 52 * $$$ * 😴
 
 The [52 weeks of AI challenge](https://transcendai.substack.com/p/52-weeks-of-ai-challenge-building) is challenge where for 52 weeks, a year, we are going to produce 52 AI or AI-assisted ventures, one AI venture a week.
